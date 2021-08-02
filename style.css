@@ -1,0 +1,41 @@
+.bg-body{
+    background-color: #f5d8d8;
+    font-family: 'poppins' ,sans-serif;
+}
+.h3-color{
+    color: #FB4C47;
+    font-weight: 600;
+
+}
+.h1-color{
+    color: #035755 ;
+    font-weight: bold;
+    
+    
+}
+.h2-color{
+    color: #035755 ;
+    font-weight: bold;
+    
+    
+}
+.btn-color{
+    background-color: #dc3545;
+    padding: 3% 7%;
+}
+.pc{
+    color: crimson;
+    padding: 2% 3%;
+    background-color: rgb(255, 212, 212);
+    border-radius: 50% ;
+    
+}
+.extra-margin-top{
+    margin-top: 10% !important;
+    margin-bottom: 5% !important;
+}
+a:hover{
+    color:crimson !important;
+    font-weight: bold;
+
+}
